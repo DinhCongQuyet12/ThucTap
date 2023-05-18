@@ -1,0 +1,4 @@
+Biến,Hằng Số,Kiểu dữ liệu,Nhập Xuất
+Lệnh,Cấu Trúc Rẽ Nhánh
+Toán Tử 
+API cơ bản
