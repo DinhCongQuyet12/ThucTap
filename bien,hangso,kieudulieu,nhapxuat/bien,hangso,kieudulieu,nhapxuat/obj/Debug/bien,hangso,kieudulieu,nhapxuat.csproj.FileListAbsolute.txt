@@ -1,0 +1,8 @@
+D:\c#\quyet\bien,hangso,kieudulieu,nhapxuat\bien,hangso,kieudulieu,nhapxuat\bin\Debug\bien,hangso,kieudulieu,nhapxuat.exe.config
+D:\c#\quyet\bien,hangso,kieudulieu,nhapxuat\bien,hangso,kieudulieu,nhapxuat\bin\Debug\bien,hangso,kieudulieu,nhapxuat.exe
+D:\c#\quyet\bien,hangso,kieudulieu,nhapxuat\bien,hangso,kieudulieu,nhapxuat\bin\Debug\bien,hangso,kieudulieu,nhapxuat.pdb
+D:\c#\quyet\bien,hangso,kieudulieu,nhapxuat\bien,hangso,kieudulieu,nhapxuat\obj\Debug\bien,hangso,kieudulieu,nhapxuat.csproj.AssemblyReference.cache
+D:\c#\quyet\bien,hangso,kieudulieu,nhapxuat\bien,hangso,kieudulieu,nhapxuat\obj\Debug\bien,hangso,kieudulieu,nhapxuat.csproj.SuggestedBindingRedirects.cache
+D:\c#\quyet\bien,hangso,kieudulieu,nhapxuat\bien,hangso,kieudulieu,nhapxuat\obj\Debug\bien,hangso,kieudulieu,nhapxuat.csproj.CoreCompileInputs.cache
+D:\c#\quyet\bien,hangso,kieudulieu,nhapxuat\bien,hangso,kieudulieu,nhapxuat\obj\Debug\bien,hangso,kieudulieu,nhapxuat.exe
+D:\c#\quyet\bien,hangso,kieudulieu,nhapxuat\bien,hangso,kieudulieu,nhapxuat\obj\Debug\bien,hangso,kieudulieu,nhapxuat.pdb

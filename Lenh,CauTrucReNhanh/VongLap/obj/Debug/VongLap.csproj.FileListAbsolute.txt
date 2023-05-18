@@ -1,0 +1,8 @@
+D:\c#\quyet\Lenh,CauTrucReNhanh\VongLap\bin\Debug\VongLap.exe.config
+D:\c#\quyet\Lenh,CauTrucReNhanh\VongLap\bin\Debug\VongLap.exe
+D:\c#\quyet\Lenh,CauTrucReNhanh\VongLap\bin\Debug\VongLap.pdb
+D:\c#\quyet\Lenh,CauTrucReNhanh\VongLap\obj\Debug\VongLap.csproj.AssemblyReference.cache
+D:\c#\quyet\Lenh,CauTrucReNhanh\VongLap\obj\Debug\VongLap.csproj.SuggestedBindingRedirects.cache
+D:\c#\quyet\Lenh,CauTrucReNhanh\VongLap\obj\Debug\VongLap.csproj.CoreCompileInputs.cache
+D:\c#\quyet\Lenh,CauTrucReNhanh\VongLap\obj\Debug\VongLap.exe
+D:\c#\quyet\Lenh,CauTrucReNhanh\VongLap\obj\Debug\VongLap.pdb

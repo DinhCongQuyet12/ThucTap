@@ -1,0 +1,8 @@
+D:\c#\quyet\Lenh,CauTrucReNhanh\Lenh,CauTrucReNhanh\bin\Debug\Lenh,CauTrucReNhanh.exe.config
+D:\c#\quyet\Lenh,CauTrucReNhanh\Lenh,CauTrucReNhanh\bin\Debug\Lenh,CauTrucReNhanh.exe
+D:\c#\quyet\Lenh,CauTrucReNhanh\Lenh,CauTrucReNhanh\bin\Debug\Lenh,CauTrucReNhanh.pdb
+D:\c#\quyet\Lenh,CauTrucReNhanh\Lenh,CauTrucReNhanh\obj\Debug\Lenh,CauTrucReNhanh.csproj.AssemblyReference.cache
+D:\c#\quyet\Lenh,CauTrucReNhanh\Lenh,CauTrucReNhanh\obj\Debug\Lenh,CauTrucReNhanh.csproj.SuggestedBindingRedirects.cache
+D:\c#\quyet\Lenh,CauTrucReNhanh\Lenh,CauTrucReNhanh\obj\Debug\Lenh,CauTrucReNhanh.csproj.CoreCompileInputs.cache
+D:\c#\quyet\Lenh,CauTrucReNhanh\Lenh,CauTrucReNhanh\obj\Debug\Lenh,CauTrucReNhanh.exe
+D:\c#\quyet\Lenh,CauTrucReNhanh\Lenh,CauTrucReNhanh\obj\Debug\Lenh,CauTrucReNhanh.pdb

@@ -1,0 +1,8 @@
+D:\c#\quyet\Lenh,CauTrucReNhanh\Mang\bin\Debug\Mang.exe.config
+D:\c#\quyet\Lenh,CauTrucReNhanh\Mang\bin\Debug\Mang.exe
+D:\c#\quyet\Lenh,CauTrucReNhanh\Mang\bin\Debug\Mang.pdb
+D:\c#\quyet\Lenh,CauTrucReNhanh\Mang\obj\Debug\Mang.csproj.AssemblyReference.cache
+D:\c#\quyet\Lenh,CauTrucReNhanh\Mang\obj\Debug\Mang.csproj.SuggestedBindingRedirects.cache
+D:\c#\quyet\Lenh,CauTrucReNhanh\Mang\obj\Debug\Mang.csproj.CoreCompileInputs.cache
+D:\c#\quyet\Lenh,CauTrucReNhanh\Mang\obj\Debug\Mang.exe
+D:\c#\quyet\Lenh,CauTrucReNhanh\Mang\obj\Debug\Mang.pdb

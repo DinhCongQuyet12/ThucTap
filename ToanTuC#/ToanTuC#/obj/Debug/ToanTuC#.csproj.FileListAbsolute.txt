@@ -1,0 +1,8 @@
+D:\c#\quyet\ToanTuC#\ToanTuC#\bin\Debug\ToanTuC#.exe.config
+D:\c#\quyet\ToanTuC#\ToanTuC#\bin\Debug\ToanTuC#.exe
+D:\c#\quyet\ToanTuC#\ToanTuC#\bin\Debug\ToanTuC#.pdb
+D:\c#\quyet\ToanTuC#\ToanTuC#\obj\Debug\ToanTuC#.csproj.AssemblyReference.cache
+D:\c#\quyet\ToanTuC#\ToanTuC#\obj\Debug\ToanTuC#.csproj.SuggestedBindingRedirects.cache
+D:\c#\quyet\ToanTuC#\ToanTuC#\obj\Debug\ToanTuC#.csproj.CoreCompileInputs.cache
+D:\c#\quyet\ToanTuC#\ToanTuC#\obj\Debug\ToanTuC#.exe
+D:\c#\quyet\ToanTuC#\ToanTuC#\obj\Debug\ToanTuC#.pdb
