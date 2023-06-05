@@ -1,0 +1,8 @@
+D:\c#\quyet\Class\ThucHanhVeClass\bin\Debug\ThucHanhVeClass.exe.config
+D:\c#\quyet\Class\ThucHanhVeClass\bin\Debug\ThucHanhVeClass.exe
+D:\c#\quyet\Class\ThucHanhVeClass\bin\Debug\ThucHanhVeClass.pdb
+D:\c#\quyet\Class\ThucHanhVeClass\obj\Debug\ThucHanhVeClass.csproj.AssemblyReference.cache
+D:\c#\quyet\Class\ThucHanhVeClass\obj\Debug\ThucHanhVeClass.csproj.SuggestedBindingRedirects.cache
+D:\c#\quyet\Class\ThucHanhVeClass\obj\Debug\ThucHanhVeClass.csproj.CoreCompileInputs.cache
+D:\c#\quyet\Class\ThucHanhVeClass\obj\Debug\ThucHanhVeClass.exe
+D:\c#\quyet\Class\ThucHanhVeClass\obj\Debug\ThucHanhVeClass.pdb

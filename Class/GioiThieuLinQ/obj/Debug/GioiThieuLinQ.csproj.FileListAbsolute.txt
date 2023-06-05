@@ -1,0 +1,8 @@
+D:\c#\quyet\Class\GioiThieuLinQ\bin\Debug\GioiThieuLinQ.exe.config
+D:\c#\quyet\Class\GioiThieuLinQ\bin\Debug\GioiThieuLinQ.exe
+D:\c#\quyet\Class\GioiThieuLinQ\bin\Debug\GioiThieuLinQ.pdb
+D:\c#\quyet\Class\GioiThieuLinQ\obj\Debug\GioiThieuLinQ.csproj.AssemblyReference.cache
+D:\c#\quyet\Class\GioiThieuLinQ\obj\Debug\GioiThieuLinQ.csproj.SuggestedBindingRedirects.cache
+D:\c#\quyet\Class\GioiThieuLinQ\obj\Debug\GioiThieuLinQ.csproj.CoreCompileInputs.cache
+D:\c#\quyet\Class\GioiThieuLinQ\obj\Debug\GioiThieuLinQ.exe
+D:\c#\quyet\Class\GioiThieuLinQ\obj\Debug\GioiThieuLinQ.pdb

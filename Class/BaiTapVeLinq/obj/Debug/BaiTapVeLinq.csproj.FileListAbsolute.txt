@@ -1,0 +1,8 @@
+D:\c#\quyet\Class\BaiTapVeLinq\bin\Debug\BaiTapVeLinq.exe.config
+D:\c#\quyet\Class\BaiTapVeLinq\bin\Debug\BaiTapVeLinq.exe
+D:\c#\quyet\Class\BaiTapVeLinq\bin\Debug\BaiTapVeLinq.pdb
+D:\c#\quyet\Class\BaiTapVeLinq\obj\Debug\BaiTapVeLinq.csproj.AssemblyReference.cache
+D:\c#\quyet\Class\BaiTapVeLinq\obj\Debug\BaiTapVeLinq.csproj.SuggestedBindingRedirects.cache
+D:\c#\quyet\Class\BaiTapVeLinq\obj\Debug\BaiTapVeLinq.csproj.CoreCompileInputs.cache
+D:\c#\quyet\Class\BaiTapVeLinq\obj\Debug\BaiTapVeLinq.exe
+D:\c#\quyet\Class\BaiTapVeLinq\obj\Debug\BaiTapVeLinq.pdb

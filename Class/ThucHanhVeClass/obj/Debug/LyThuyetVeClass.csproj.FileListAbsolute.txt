@@ -1,0 +1,5 @@
+D:\c#\quyet\Class\ThucHanhVeClass\obj\Debug\LyThuyetVeClass.csproj.AssemblyReference.cache
+D:\c#\quyet\Class\ThucHanhVeClass\obj\Debug\LyThuyetVeClass.csproj.SuggestedBindingRedirects.cache
+D:\c#\quyet\Class\ThucHanhVeClass\obj\Debug\LyThuyetVeClass.csproj.CoreCompileInputs.cache
+D:\c#\quyet\Class\ThucHanhVeClass\obj\Debug\ThucHanhVeClass.exe
+D:\c#\quyet\Class\ThucHanhVeClass\obj\Debug\ThucHanhVeClass.pdb

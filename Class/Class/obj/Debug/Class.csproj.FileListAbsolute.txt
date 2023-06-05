@@ -1,0 +1,8 @@
+D:\c#\quyet\Class\Class\bin\Debug\Class.exe.config
+D:\c#\quyet\Class\Class\bin\Debug\Class.exe
+D:\c#\quyet\Class\Class\bin\Debug\Class.pdb
+D:\c#\quyet\Class\Class\obj\Debug\Class.csproj.AssemblyReference.cache
+D:\c#\quyet\Class\Class\obj\Debug\Class.csproj.SuggestedBindingRedirects.cache
+D:\c#\quyet\Class\Class\obj\Debug\Class.csproj.CoreCompileInputs.cache
+D:\c#\quyet\Class\Class\obj\Debug\Class.exe
+D:\c#\quyet\Class\Class\obj\Debug\Class.pdb
