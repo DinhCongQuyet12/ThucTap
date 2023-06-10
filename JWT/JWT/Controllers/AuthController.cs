@@ -23,7 +23,7 @@ namespace JWT.Controllers
         [HttpPost("register")]
         public async Task<ActionResult<User>> Register(UserDto request)
         {
-            CreatePasswordHash(request.Password, out byte[] passwordHash, out byte[] passwordSalt);
+            CreatePasswordHash(  request.Password, out byte[] passwordHash, out byte[] passwordSalt);
 
             user.Username = request.Username;
             user.PasswordHash = passwordHash;
@@ -32,7 +32,7 @@ namespace JWT.Controllers
             return Ok(user);
         }
         [HttpPost("login")]
-        public async Task<ActionResult<string>> Login(UserDto request)
+        public async Task<ActionResult<string>> Login (UserDto request)
         {
             if (user.Username != request.Username)
             {
@@ -43,8 +43,6 @@ namespace JWT.Controllers
             {
                 return BadRequest("Wrong password");
             }
-
-
             string token = CreateToken(user);
             return Ok(token);
         }
@@ -55,7 +53,8 @@ namespace JWT.Controllers
                 new Claim(ClaimTypes.Name,user.Username)
             };
             var key = new SymmetricSecurityKey(System.Text.Encoding.UTF8.GetBytes(
-                _configuration.GetSection("AppSettings:Token").Value));
+
+                 _configuration.GetSection("AppSettings:Token").Value));
 
             var creds = new SigningCredentials(key, SecurityAlgorithms.HmacSha512Signature);
 
