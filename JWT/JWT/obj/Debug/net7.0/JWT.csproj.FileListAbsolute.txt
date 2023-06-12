@@ -36,3 +36,10 @@ D:\c#\quyet\JWT\JWT\obj\Debug\net7.0\refint\JWT.dll
 D:\c#\quyet\JWT\JWT\obj\Debug\net7.0\JWT.pdb
 D:\c#\quyet\JWT\JWT\obj\Debug\net7.0\JWT.genruntimeconfig.cache
 D:\c#\quyet\JWT\JWT\obj\Debug\net7.0\ref\JWT.dll
+D:\c#\quyet\JWT\JWT\bin\Debug\net7.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+D:\c#\quyet\JWT\JWT\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.dll
+D:\c#\quyet\JWT\JWT\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\c#\quyet\JWT\JWT\bin\Debug\net7.0\Microsoft.Extensions.DependencyModel.dll
+D:\c#\quyet\JWT\JWT\bin\Debug\net7.0\Scrutor.dll
+D:\c#\quyet\JWT\JWT\bin\Debug\net7.0\Swashbuckle.AspNetCore.Filters.dll
+D:\c#\quyet\JWT\JWT\bin\Debug\net7.0\Swashbuckle.AspNetCore.Filters.Abstractions.dll
