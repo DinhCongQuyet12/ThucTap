@@ -21,7 +21,7 @@ namespace JWT.Controllers
             _configuration = configuration;
         }
         [HttpPost("register")]
-        public async Task<ActionResult<User>> Register(UserDto request)
+        public async Task<ActionResult<User>> Register (UserDto request)
         {
             CreatePasswordHash(  request.Password, out byte[] passwordHash, out byte[] passwordSalt);
 
